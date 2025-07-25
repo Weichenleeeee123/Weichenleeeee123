@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi There!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Weichenleeeee123}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm Weichenleeeee123&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile+page!" alt="Typing SVG" /></a>
 
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Weichenleeeee123&theme=transparent&hide_border=%E5%81%87&short_numbers=%E5%81%87" alt="GitHub Streak" /></a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true" />
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=graywhite&hide_border=true&hide_title=true)
@@ -40,6 +42,7 @@ Here are some ideas to get you started:
 
 ## Contact Me
 Weichenleeeee123@outlook.com
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Go for it!&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
