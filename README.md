@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=220&amp;section=header&amp;text=Weichenleeeee123&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;desc=Student%20%26%20Independent%20Developer&amp;descAlign=50&amp;descSize=20&amp;descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Weichenleeeee123&fontSize=60&fontAlign=50&fontAlignY=40&desc=Student%20%26%20Independent%20Developer&descAlign=50&descSize=20&descAlignY=70" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+KinoLens.ai+%F0%9F%8E%AC;AI-Powered+Video+Editing+Tool;Always+learning%2C+always+shipping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+KinoLens.ai+%F0%9F%8E%AC;AI-Powered+Video+Editing+Tool;Always+learning%2C+always+shipping." alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,44 +35,27 @@ I love turning ideas into real products. My interests span full-stack developmen
 
 ### GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Weichenleeeee123&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&amp;theme=radical&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weichenleeeee123&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Weichenleeeee123&amp;theme=radical&amp;border=0" />
+  <img src="https://streak-stats.demolab.com?user=Weichenleeeee123&theme=radical&border=0" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&amp;theme=github-compact&amp;hide_border=true&amp;area=true" />
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </p>
 
 ---
 
 ### Featured Project
 
-<table align="center">
-  <tr>
-    <td>
-      <h3>KinoLens.ai</h3>
-      <p>AI-powered video editing tool — making professional video editing accessible to everyone.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs&amp;size=20" />
-      </p>
-    </td>
-  </tr>
-</table>
+**KinoLens.ai** — AI-powered video editing tool, making professional video editing accessible to everyone.
 
 ---
 
@@ -80,13 +63,13 @@ I love turning ideas into real products. My interests span full-stack developmen
 
 <p align="center">
   <a href="mailto:Weichenleeeee123@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://github.com/Weichenleeeee123">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=120&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </p>
