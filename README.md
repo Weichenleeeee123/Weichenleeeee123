@@ -1,48 +1,92 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm Weichenleeeee123&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Weichenleeeee123&fontSize=60&fontAlign=50&fontAlignY=40&desc=Student%20%26%20Independent%20Developer&descAlign=50&descSize=20&descAlignY=70" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile+page!" alt="Typing SVG" /></a>
 
-<!--
-**Weichenleeeee123/Weichenleeeee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+KinoLens.ai+%F0%9F%8E%AC;AI-Powered+Video+Editing+Tool;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Weichenleeeee123&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Weichenleeeee123&theme=transparent&hide_border=%E5%81%87&short_numbers=%E5%81%87" alt="GitHub Streak" /></a>
+### About Me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+Hi, I'm **Weichenleeeee123** — a senior high school student and independent developer. I'm currently building [**KinoLens.ai**](https://kinoLens.ai), an AI-powered video editing tool.
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true" />
+I love turning ideas into real products. My interests span full-stack development, AI/ML, and building tools that people actually use.
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=graywhite&hide_border=true&hide_title=true)
+---
 
-## My Tech Stack
+### Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,python,cpp,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,vue,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,swift,flutter,react,vue,nodejs,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,swift,figma,git,linux" />
   </a>
 </p>
 
-## Contact Me
-Weichenleeeee123@outlook.com
+---
+
+### GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Weichenleeeee123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Go for it!&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+  <img src="https://streak-stats.demolab.com?user=Weichenleeeee123&theme=transparent&border=0" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</p>
+
+---
+
+### Featured Project
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>KinoLens.ai</h3>
+      <p>AI-powered video editing tool — making professional video editing accessible to everyone.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs&size=20" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Contact
+
+<p align="center">
+  <a href="mailto:Weichenleeeee123@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Weichenleeeee123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </p>
