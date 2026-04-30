@@ -39,17 +39,11 @@ I love turning ideas into real products. My interests span full-stack developmen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Weichenleeeee123&theme=radical&border=0" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Weichenleeeee123&theme=radical&border=0)
 
-<p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 ---
 
