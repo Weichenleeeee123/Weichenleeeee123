@@ -1,59 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Weichenleeeee123&fontSize=60&fontAlign=50&fontAlignY=40&desc=Student%20%26%20Independent%20Developer&descAlign=50&descSize=20&descAlignY=70" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+KinoLens.ai+%F0%9F%8E%AC;AI-Powered+Video+Editing+Tool;Always+learning%2C+always+shipping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=480&lines=Building+Coopagents+%F0%9F%8E%AC;AI-Powered+Video+Editing;Always+learning%2C+always+shipping." alt="Typing SVG" />
   </a>
 </p>
 
----
+### 👋 About Me
 
-### About Me
+Hi, I'm **Weichenleeeee123** — a senior high school student and independent developer. Currently building [**KinoLens.ai**](https://kinoLens.ai), an AI-powered video editing tool.
 
-Hi, I'm **Weichenleeeee123** — a senior high school student and independent developer. I'm currently building [**KinoLens.ai**](https://kinoLens.ai), an AI-powered video editing tool.
+I love turning ideas into real products. My interests span **full-stack development**, **AI/ML**, and building tools that people actually use.
 
-I love turning ideas into real products. My interests span full-stack development, AI/ML, and building tools that people actually use.
-
----
-
-### Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,vue,nodejs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,vue,nodejs,flutter,dart,cpp,java,swift,figma,git,linux" />
 </p>
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,swift,figma,git,linux" />
-  </a>
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Weichenleeeee123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=radical&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
----
+### 🚀 Featured Project
 
-### GitHub Stats
+**KinoLens.ai** — AI-powered video editing, making professional editing accessible to everyone.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weichenleeeee123&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weichenleeeee123&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Weichenleeeee123&theme=radical&border=0)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Weichenleeeee123&theme=github-compact&hide_border=true&area=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Weichenleeeee123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)
-
----
-
-### Featured Project
-
-**KinoLens.ai** — AI-powered video editing tool, making professional video editing accessible to everyone.
-
----
-
-### Contact
+### 📬 Contact
 
 <p align="center">
   <a href="mailto:Weichenleeeee123@outlook.com">
@@ -65,5 +39,5 @@ I love turning ideas into real products. My interests span full-stack developmen
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
